@@ -8,7 +8,7 @@ git add . (namafile) untuk menambah semuanya
 git commit -m "untuk menambahkan comment"
 git remote add origin (link github repo baru)
 git push -u origin master
-* git log untuk melihat detail yang di tambahkan (untuk keluar di terminal q)
+git log untuk melihat detail yang di tambahkan (untuk keluar di terminal q)
 git diff untuk melihat tambahan file
 git checkout namafile.py menyesal commit dan balikin ke semula
 git log –oneline untuk melihat status detail yang di tambahkan
